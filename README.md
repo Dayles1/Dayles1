@@ -1,1 +1,1 @@
-https://www.google.com/imgres?q=sung%20jin%20woo&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Ftopstrongest%2Fimages%2Fc%2Fc1%2FJin-Woo_Purple.png%2Frevision%2Flatest%3Fcb%3D20240421155002&imgrefurl=https%3A%2F%2Ftopstrongest.fandom.com%2Fwiki%2FSung_Jin-Woo&docid=bScJOIuoVhu4rM&tbnid=HK1QUkfx0YrbhM&vet=12ahUKEwiy1dKqgoCMAxWgAxAIHcj6LtAQM3oECHsQAA..i&w=728&h=1294&hcb=2&ved=2ahUKEwiy1dKqgoCMAxWgAxAIHcj6LtAQM3oECHsQAA
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ga79Ksv2-vO7aBnBlSL4NI2Ey3ujlPl7EA&s
