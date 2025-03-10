@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет, я [Ваше имя] 👋
 
-<!--
-**Dayles1/Dayles1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я разработчик, увлеченный **разработкой программного обеспечения** и **открытым исходным кодом**. Вот несколько технологий, с которыми я работаю:
 
-Here are some ideas to get you started:
+- 🚀 **Языки программирования**: Python, JavaScript, Java, C++
+- 🧑‍💻 **Фреймворки**: React, Django, Flask
+- 🛠 **Инструменты**: Docker, Kubernetes, Git, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои достижения
+
+- ⭐ 50+ репозиториев на GitHub
+- 🌱 Учусь работать с **Machine Learning** и **Data Science**
+- 📫 Связаться со мной можно через [email@example.com](mailto:email@example.com)
+
+![Мой статус на GitHub](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=radical)
