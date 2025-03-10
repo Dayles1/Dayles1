@@ -1,15 +1,1 @@
-# Привет, я [Ваше имя] 👋
-
-Я разработчик, увлеченный **разработкой программного обеспечения** и **открытым исходным кодом**. Вот несколько технологий, с которыми я работаю:
-
-- 🚀 **Языки программирования**: Python, JavaScript, Java, C++
-- 🧑‍💻 **Фреймворки**: React, Django, Flask
-- 🛠 **Инструменты**: Docker, Kubernetes, Git, CI/CD
-
-## Мои достижения
-
-- ⭐ 50+ репозиториев на GitHub
-- 🌱 Учусь работать с **Machine Learning** и **Data Science**
-- 📫 Связаться со мной можно через [email@example.com](mailto:email@example.com)
-
-![Мой статус на GitHub](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=radical)
+https://www.google.com/imgres?q=sung%20jin%20woo&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Ftopstrongest%2Fimages%2Fc%2Fc1%2FJin-Woo_Purple.png%2Frevision%2Flatest%3Fcb%3D20240421155002&imgrefurl=https%3A%2F%2Ftopstrongest.fandom.com%2Fwiki%2FSung_Jin-Woo&docid=bScJOIuoVhu4rM&tbnid=HK1QUkfx0YrbhM&vet=12ahUKEwiy1dKqgoCMAxWgAxAIHcj6LtAQM3oECHsQAA..i&w=728&h=1294&hcb=2&ved=2ahUKEwiy1dKqgoCMAxWgAxAIHcj6LtAQM3oECHsQAA
