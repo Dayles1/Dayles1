@@ -1,52 +1,57 @@
-<h1 align="center">Salom 👋, Men [Isming]</h1>
-<h3 align="center">2024-yildan beri backend dasturchiman (PHP, Laravel API)</h3>
+<h1 align="center">Hi 👋, I'm Abdukabur</h1>
+<h3 align="center">A passionate Laravel backend developer (since 2024)</h3>
 
 ---
 
-## 🧑‍💻 Men haqimda
+## 🧑‍💻 About Me
 
-- 🖥️ 2024-yildan buyon **PHP** va **Laravel** asosida **REST API** ishlab chiqaman  
-- 🛠️ Asosan **CRUD**, **JWT autentifikatsiya**, **file upload**, **validation**, **middleware**, **repository/service pattern** bilan ishlayman  
-- 🔗 Front bilan API integratsiyalar: Postman, Swagger, Vue, React bilan ishlaganman  
-- 🗄️ Ma'lumotlar bazasi: **MySQL**, **SQLite**
-
----
-
-## 🧠 Biladigan texnologiyalarim
-
-- 💻 PHP (>=11)
-- 🛠️ Laravel (10.x+)
-- 🗃️ MySQL / SQLite
-- 📡 REST API, API Resource
-- 🔒 Auth: Sanctum, JWT
-- 📦 Composer, Artisan komandalar
-- 🧰 Git / GitHub
-- 🧪 Postman
-- 📁 File upload & Storage
-- 🧱 Service / Repository pattern
+- 🚀 I'm a backend developer working with **PHP** and **Laravel 11+**
+- 🧾 I write clean, well-documented RESTful APIs
+- 🧱 I follow architecture patterns like **Repository-Service**, use **interfaces**, and write reusable code
+- 🌍 I implement **Localization** for multilingual apps
+- 🧩 I use **Observers**, **Events**, and **Queues** for scalable and reactive backend logic
+- 🗃️ I work with **MySQL** and **SQLite** databases
 
 ---
 
-## 🤷‍♂️ Hozircha bilmayman, lekin o‘rganmoqdaman
+## 🛠️ Technologies & Tools I Use
 
-- 🖼️ Laravel Livewire / Inertia.js
-- 📦 Docker
-- 📈 Laravel Horizon / Queue tizimlari
-- 🧪 PHPUnit
-- 🧠 DDD (Domain Driven Design)
+- 💻 PHP 8.x
+- ⚙️ Laravel 11+
+- 📡 REST API, API Resources
+- 🔐 Auth systems: Laravel Sanctum, JWT
+- 📄 API Docs: Postman, Swagger
+- 🧰 Artisan CLI, Composer
+- 🗃️ MySQL, SQLite
+- 🔁 Events, Observers, Queues
+- 🧱 Repository-Service Pattern, Interfaces
+- 🌐 Localization (i18n)
+- 📦 Git, GitHub
+- 🧪 Postman testing
+- 🖼️ File Upload & Storage
 
 ---
 
-## 📫 Muloqot uchun
+## 📚 Currently Learning or Planning
 
-- Telegram: [@username](https://t.me/username)
-- Email: example@gmail.com
-- GitHub: [github.com/sening-nicking](https://github.com/sening-nicking)
+- 🧪 PHPUnit testing
+- 🐳 Docker basics
+- 📈 Laravel Horizon / Redis Queues
+- 🧠 Domain Driven Design (DDD)
+- 🧬 Microservices (conceptually)
 
 ---
 
-## 📊 GitHub statistikasi
+## 📫 Contact Me
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sening-nicking&show_icons=true&theme=tokyonight)
+- 📧 Email: kurbanalievabdukabir@gmail.com  
+- 💬 Telegram: [@Quinn_Talen](https://t.me/Quinn_Talen)  
+- 🐙 GitHub: [Dayles1](https://github.com/Dayles1)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sening-nicking&layout=compact&theme=tokyonight)
+---
+
+## 📊 GitHub Stats
+
+![Abdukabur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dayles1&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayles1&layout=compact&theme=tokyonight)
