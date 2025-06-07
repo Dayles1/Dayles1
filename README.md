@@ -50,6 +50,12 @@
 - 🐙 GitHub: [Dayles1](https://github.com/Dayles1)
 
 ---
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dayles1.soul-hr" alt="Visitor Count"
+    width="220" height="70" 
+    style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</p>
+
 
 ## 📊 GitHub Stats
 
