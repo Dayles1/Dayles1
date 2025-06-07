@@ -2,7 +2,10 @@
 <h3 align="center">A passionate Laravel backend developer (since 2024)</h3>
 
 ---
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo" alt="Visitor Count" width="200" height="60" />
+</p>
+
 
 ## 🧑‍💻 About Me
 
@@ -15,23 +18,20 @@
 
 ---
 
-## 🛠️ Technologies & Tools I Use
+## 🧰 Technologies & Tools
 
-- 💻 PHP 8.x
-- ⚙️ Laravel 11+
-- 📡 REST API, API Resources
-- 🔐 Auth systems: Laravel Sanctum, JWT
-- 📄 API Docs: Postman, Swagger
-- 🧰 Artisan CLI, Composer
-- 🗃️ MySQL, SQLite
-- 🔁 Events, Observers, Queues
-- 🧱 Repository-Service Pattern, Interfaces
-- 🌐 Localization (i18n)
-- 📦 Git, GitHub
-- 🧪 Postman testing
-- 🖼️ File Upload & Storage
+- PHP 8.x
+- Laravel 11+
+- MySQL, SQLite
+- Composer, Git, Postman
 
----
+## 🏗 Architecture & Patterns
+
+- Repository-Service Pattern
+- Events, Observers, Queues
+- Interfaces
+- Localization (i18n)
+
 
 ## 📚 Currently Learning or Planning
 
