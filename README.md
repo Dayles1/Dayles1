@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Laravel backend developer (since 2024)</h3>
 
 ---
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
 
 ## 🧑‍💻 About Me
 
