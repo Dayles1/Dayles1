@@ -5,6 +5,11 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo" alt="Visitor Count" width="200" height="60" />
 </p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dayles1.soul-hr" alt="Visitor Count"
+    width="220" height="70" 
+    style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</p>
 
 
 ## 🧑‍💻 About Me
