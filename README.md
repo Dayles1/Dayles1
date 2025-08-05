@@ -7,14 +7,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 I'm a backend developer working with **PHP** and **Laravel 11+**
-- 🧾 I write clean, well-documented RESTful APIs
-- 🧱 I follow architecture patterns like **Repository-Service**, use **interfaces**, and write reusable code
-- 🌍 I implement **Localization** for multilingual apps
-- 🧩 I use **Observers**, **Events**, and **Queues** for scalable and reactive backend logic
-- 🗃️ I work with **MySQL** and **SQLite** databases
-
----
 
 ## 🧰 Technologies & Tools
 
@@ -23,12 +15,6 @@
 - MySQL, SQLite
 - Composer, Git, Postman
 
-## 🏗 Architecture & Patterns
-
-- Repository-Service Pattern
-- Events, Observers, Queues
-- Interfaces
-- Localization (i18n)
 
 
 ## 📚 Currently Learning or Planning
