@@ -19,11 +19,9 @@
 
 ## 📚 Currently Learning or Planning
 
-- 🧪 PHPUnit testing
 - 🐳 Docker basics
-- 📈 Laravel Horizon / Redis Queues
-- 🧠 Domain Driven Design (DDD)
-- 🧬 Microservices (conceptually)
+Front
+
 
 ---
 
