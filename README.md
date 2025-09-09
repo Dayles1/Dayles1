@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdukabur</h1>
+<h1 align="center">Hi 👋, I'm Abdukabir</h1>
 <h3 align="center">A passionate Laravel backend developer (since 2024)</h3>
 
 ---
