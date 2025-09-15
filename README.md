@@ -19,7 +19,7 @@
 
 ## 📚 Currently Learning or Planning
 
-- 🐳 Docker basics
+- 🐳 Docker basics,
 Front
 
 
